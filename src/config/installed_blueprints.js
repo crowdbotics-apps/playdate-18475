@@ -4,7 +4,6 @@ export const installed_blueprints = [
 { name: 'UserProfile72301', human_name: 'User Profile', access_route: 'UserProfile72301'},
 { name: 'Settings72300', human_name: 'Settings', access_route: 'Settings72300'},
 { name: 'Settings72298', human_name: 'Settings', access_route: 'Settings72298'},
-{ name: 'SignIn272296', human_name: 'Sign In 2', access_route: 'SignIn272296'},
 { name: 'Settings72269', human_name: 'Settings', access_route: 'Settings72269'},
 { name: 'UserProfile72262', human_name: 'User Profile', access_route: 'UserProfile72262'},
 { name: 'Settings72261', human_name: 'Settings', access_route: 'Settings72261'},

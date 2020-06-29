@@ -9,7 +9,6 @@ import Settings72308Navigator from '../features/Settings72308/navigator';
 import UserProfile72301Navigator from '../features/UserProfile72301/navigator';
 import Settings72300Navigator from '../features/Settings72300/navigator';
 import Settings72298Navigator from '../features/Settings72298/navigator';
-import SignIn272296Navigator from '../features/SignIn272296/navigator';
 import Settings72269Navigator from '../features/Settings72269/navigator';
 import UserProfile72262Navigator from '../features/UserProfile72262/navigator';
 import Settings72261Navigator from '../features/Settings72261/navigator';
@@ -35,7 +34,6 @@ Settings72308: { screen: Settings72308Navigator },
 UserProfile72301: { screen: UserProfile72301Navigator },
 Settings72300: { screen: Settings72300Navigator },
 Settings72298: { screen: Settings72298Navigator },
-SignIn272296: { screen: SignIn272296Navigator },
 Settings72269: { screen: Settings72269Navigator },
 UserProfile72262: { screen: UserProfile72262Navigator },
 Settings72261: { screen: Settings72261Navigator },
